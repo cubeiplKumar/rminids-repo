@@ -23,4 +23,11 @@ class Main {
       e.getStackTrace();
     }
   }
+  #feature 301 changes done by developer Arun 
+  // reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
 }
