@@ -1,0 +1,4 @@
+working with webhook job configuraiton
+when developer push any code and commmit into 
+code repository.
+Jenkins triggered the event and build the job immediately
